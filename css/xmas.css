@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 
+      'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+      'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.heading {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+.heading h1 {
+    color: limegreen;
+    font-size: 50px;
+}
+.heading h3 {
+    color: wheat;
+    font-size: 17px;
+}
+#particles-js {
+    background: -webkit-linear-gradient(to bottom right, #4dfb3f, #c90c32);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom right, #c90c32, #4dfb3f);
+    height: 100vh;
+}
